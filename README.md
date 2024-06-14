@@ -1,4 +1,4 @@
-# Harun DEDM
+# Harun
 Developing the technology for the better future. Also love cat 🐈 and nature 🍃 for some reason. Researching the latest technology for efficiency execution system.
 
 |Priority|Task|
